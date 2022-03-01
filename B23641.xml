@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A late libellers folly manifested and the Christian Quakers vindicated, from the base insinuations, in a late pamphlet, subscribed G.W. By H.G.</title>
+            <author>Gouldney, Henry, 1656 or 7-1725.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23641</idno>
+            <idno type="STC">Wing G1448</idno>
+            <idno type="EEBO-CITATION">99831322</idno>
+            <idno type="PROQUEST">99831322</idno>
+            <idno type="VID">207288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2049:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A late libellers folly manifested and the Christian Quakers vindicated, from the base insinuations, in a late pamphlet, subscribed G.W. By H.G.</title>
+                  <author>Gouldney, Henry, 1656 or 7-1725.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, near the Meeting, House [sic] in White-Hart-Court in Gracecious-street-[sic] and at the Croocked-Billet [sic] in Holywell-Lane near Shoreditch,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.G = Henry Gouldney.</note>
+                  <note>Reproduction of the original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207288:1" rendition="simple:additions"/>
+            <p> 
+               <hi>A LATE <hi>Libellers Folly</hi> MANIFESTED: AND THE Chriſtian</hi> Q<g ref="char:V">Ʋ</g>AKERS <hi>VINDICATED, From the Baſe Inſinuations, in a late PAMPHLET, Subſcribed</hi> G. W.</p>
+            <p>
+               <hi>By</hi> H. G.</p>
+            <q>
+               <bibl>
+                  <hi>Proverbs</hi> 11. 21.</bibl>
+               <p>Though Hand joyn in Hand, the Wicked ſhall not be <g ref="char:V">Ʋ</g>npuniſh<g ref="char:EOLhyphen"/>ed, but the Seed of the Righteous ſhall be delivered.</p>
+            </q>
+            <p>London, <hi>Printed and Sold by</hi> T. Sowle, <hi>near the</hi> Meeting, Houſe <hi>in</hi> White-Hart-Court <hi>in</hi> Gracecious-Street-<hi> and at the</hi> Croocked-Billet <hi>in</hi> Holywell-Lane <hi>near</hi> Shoreditch, 1694.</p>
+            <pb facs="tcp:207288:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:207288:2"/>
+            <head>A LATE <hi>Libellers Folly</hi> MANIFESTED, <hi>&amp;c.</hi>
+            </head>
+            <p>MANY have been the Adverſa<g ref="char:EOLhyphen"/>ries, both of us and our Holy Profeſſion; ſome of whom not being Contented to Oppoſe us, only in Point of Doctrine, wherein we differ from them; but rather than not Re<g ref="char:EOLhyphen"/>proach us enough, have taken Liberty to Miſrepreſent us, with holding Errors which we deny, and have not yet been proved upon us.</p>
+            <p>But in all this Oppoſition, God that has called us into his Living Way, and Worſhip, hath at all times Effectually
+<pb n="4" facs="tcp:207288:3"/> Qualified ſome in our days, as he did in Primitive times; <hi>for the defence of the Goſpel;</hi> by which means our Adver<g ref="char:EOLhyphen"/>ſaries of that kind, are better Informed or Defeated.</p>
+            <p>But our Grand Enemy, Envying our Peace, not being Contented to ſee <hi>Sion</hi> Proſper, hath by his Subtil devices, be<g ref="char:EOLhyphen"/>gotten in Some (from among our ſelves), Firſt, a Coldneſs to Truth it ſelf, and from thence, a letting go Charity to their Brethren, which have Led them in<g ref="char:EOLhyphen"/>to <hi>Envy,</hi> and <hi>Bitterneſs;</hi> Fruits that of late more eſpecially have been brought forth; and ſo much Reſembles <hi>Cain</hi>'s Nature, that as much as in them lyes, would ſlay the Reputation (at leaſt) of their Brethren; even as he did the Na<g ref="char:EOLhyphen"/>tural Life of his Brother; and which is worſe, I fear for the ſame Reaſon too.</p>
+            <p>Now, that which Leads me to the fore<g ref="char:EOLhyphen"/>going, was upon Peruſal of a late Pam<g ref="char:EOLhyphen"/>phlet, Subſcribed <hi>G. W.</hi> Called, <hi>Some<g ref="char:EOLhyphen"/>thing by way of Reply, unto a Paper lately Publiſhed in the Citty Mercury, Signed by Twenty Four Men,</hi> being alſo a ſort of a Vindication of a former of the ſame
+<pb n="5" facs="tcp:207288:3"/> kind, Subſcribed <hi>D. S.</hi> The tenour of which Paper, Signed by thoſe Twenty-Four was to detect <hi>D. S</hi>'s. abuſive Work, who in the Name of the <hi>Chri<g ref="char:EOLhyphen"/>ſtian Quakers,</hi> would Inſinuate Guilt (up<g ref="char:EOLhyphen"/>on many Honourable Brethren, moſt of whom long ſince are deceaſed) as Charg<g ref="char:EOLhyphen"/>ed by <hi>F. B.</hi> and other malicious A<g ref="char:EOLhyphen"/>poſtates, moſt, if not all, of which Ca<g ref="char:EOLhyphen"/>lumnies, have been heretofore anſwered, and our Friends Vindicated.</p>
+            <p>But ſuch is the Humour of our Preſent Adverſaries, that rather than not be doing, they will not only Dig up the Graves of ſuch, but Rake in their Aſhes, whoſe Me<g ref="char:EOLhyphen"/>mory, even to ſome of themſelves, ſince Bu<g ref="char:EOLhyphen"/>ried, have, I make no Queſtion, been Pre<g ref="char:EOLhyphen"/>cious to them.</p>
+            <p>I ſhall now leave Generals, and pro<g ref="char:EOLhyphen"/>ceed to a Particular Obſervation on this Pamphlet, Signed <hi>G. W.</hi> who in his firſt <hi>page</hi> ſaies, <hi>Viz. I know not who was the Au<g ref="char:EOLhyphen"/>thor,</hi> i. e. D. S. <hi>Neither do I Pretend to Juſtifie all that he has ſaid therein.</hi> At this rate another of the ſame kind may come out Subſcribed <hi>T C.</hi> diſowning
+<pb n="6" facs="tcp:207288:4"/> that he knows Either, nor will he Juſtifie them in all they ſay; ſo that we are, &amp; like to be traduced by a ſort of Lurking Ad<g ref="char:EOLhyphen"/>verſaries, who by ſmiting in the dark, are accountable to no Viſibles; but how<g ref="char:EOLhyphen"/>ever, he that is Inviſible beholds them, who will not let them eſcape the reward of that Evil work, without they Re<g ref="char:EOLhyphen"/>pent.</p>
+            <p>In his Third <hi>page</hi> ſaith, <hi>Viz.—But that You ſhould be ſo Impertinent firſt to put on your ſelves the Name of Chriſtian Quakers,</hi> &amp;c. In anſwer whereto I appeal to the Im<g ref="char:EOLhyphen"/>partial; whether it is not more pertinent for Twenty-Four Men, that are known to have been of that Perſwaſion for ma<g ref="char:EOLhyphen"/>ny Years, to Sign on behalf of that People, rather than a Nameleſs Author to do it, and yet he Complains, <hi>would any thing but Groſs Folly and Ignorance, be guilty of ſuch Weakneſs.</hi>
+            </p>
+            <p>Again, in his <hi>4th. page</hi> ſays, <hi>And In<g ref="char:EOLhyphen"/>deed if you Could make the World believe, that the Chriſtian Quakers could give forth no Chriſtian Teſtimonies, without your leave as you would Inſinuate,</hi> &amp;c. Here again, I do appeal as before, deſiring the Can<g ref="char:EOLhyphen"/>did
+<pb n="7" facs="tcp:207288:4"/> Reader to peruſe that ſmall Paper Signed by the Twenty-Four, who doubt<g ref="char:EOLhyphen"/>leſs would find the Genuine Senſe there<g ref="char:EOLhyphen"/>of, to intend no other, than whereas <hi>D. S.</hi> had Impoſed upon the World a falſe Libel, in the Name of the <hi>Chriſtian Quakers;</hi> they holding themſelves to be of that Society, were willing to undeceive ſuch as might be miſled by it; aſſuring them, that that Book was not Printed by Direction, or Approbation, of that People; therefore 'twas Requiſite that ſome, known among them, ſhould Clear themſelves, and Brethren, from that Impoſture.</p>
+            <p>Then again in the ſame <hi>page</hi> he revi<g ref="char:EOLhyphen"/>lingly Suggeſts, that the Twenty-Four are no Chriſtians, where he ſays; <hi>It is Poſſible ſome might have thought you to have been of that Chriſtian Society, but now your works have abſolutely denied it;</hi> with much more of the ſame kind in that <hi>page;</hi> and all for diſowning that Book Signed by <hi>D. S.</hi> and no other reaſon known to us: Doth this Malicious Author endea<g ref="char:EOLhyphen"/>vour to Un-Chriſtian us? And for our Satisfaction, in the <hi>5th. page</hi> gives a Chal<g ref="char:EOLhyphen"/>lenge
+<pb n="8" facs="tcp:207288:5"/> on behalf of himſelf, <hi>&amp;c. Viz. But if any Chriſtian People ſhould Queſtion the truth of theſe Charges hinted at, and elſewhere more at large; we do offer publickly to prove the greateſt part of them, in any publick place convenient, to the faces of theſe Twenty-Four Men,</hi> &amp;c.</p>
+            <p>In this he is ſomewhat Modeſt, by ſaying, the greateſt part, which Na<g ref="char:EOLhyphen"/>turally Implies the leſſer he cannot prove, yet not ſo modeſt neither, but that he is more Liberal to Charge us in the dark, than he ſo much as pretends to prove to our faces. Then again, who is this <hi>we</hi> that makes this offer, ſurely it muſt be <hi>D. S.</hi> and himſelf; in the moſt Natural Senſe of that place Cited, although un<g ref="char:EOLhyphen"/>known, as he before ſaid; and how theſe unknown Brethren ſhould know how to meet with each other, and we that known Neither to meet with them both, I cannot tell; and which is worſe, when they do meet, tis more then Pro<g ref="char:EOLhyphen"/>bable they will not agree; for G. W. ſays he doth not Pretend to Juſtifie all <hi>D. S.</hi> has ſaid, for, but however, as of
+<pb n="9" facs="tcp:207288:5"/> Old, with <hi>Herod</hi> and <hi>Pilate,</hi> they a<g ref="char:EOLhyphen"/>greed in Condemning the Innocent.</p>
+            <p>My task in this (ſober Reader) has been to diſcover the Inſincerity, and Diſingenu<g ref="char:EOLhyphen"/>ity of this <hi>G.</hi> W. but that of D. S, as well as in General, he is diſowned in the Name of that Chriſtian People by the Twenty-Four; he is alſo more particularly an<g ref="char:EOLhyphen"/>ſwered by our Friend <hi>Robert Bridgman,</hi> to which I refer for Satisfaction, in Re<g ref="char:EOLhyphen"/>ference to D. S. and to the particular Calumnies, in both our Occult Adver<g ref="char:EOLhyphen"/>ſaries; I do recommend thee to the Books following, <hi>Viz.</hi> The <hi>Quakers Vindi<g ref="char:EOLhyphen"/>cation,</hi> in on Sheeet, given to the Parlia<g ref="char:EOLhyphen"/>ment againſt <hi>F. Bugg</hi>'s Calumnies. And <hi>Innocency Triumphant</hi> over <hi>In<g ref="char:EOLhyphen"/>tolency</hi> alſo; <hi>The Counterfeit Convert, a Scandal to Chriſtianity,</hi> and the Certificate therein annext to the Preface; likewiſe the <hi>Iuſt Inquiry into the Li<g ref="char:EOLhyphen"/>bellers Abuſe,</hi> all by <hi>George Whitehead.</hi> And for anſwer to his Six <hi>page</hi> about <hi>Jeptha</hi>'s Daughter and <hi>Micah</hi>'s Mother, I refer unto <hi>Tho. Ellwood, Antidote, Chap.</hi> 8. <hi>Sect.</hi> 1. from <hi>p.</hi> 205. to 210, and <hi>Sect.</hi> 5.
+<pb n="10" facs="tcp:207288:6"/> 
+               <hi>p.</hi> 214, 215. For it would be unreaſona<g ref="char:EOLhyphen"/>ble to ſuppoſe, we ſhould as often make re<g ref="char:EOLhyphen"/>peated Replies, as our Adverſaries pleaſure is to repeat Charges upon us, long ſince an<g ref="char:EOLhyphen"/>ſwered, and refuted; ſo that we ſhall reſt Satisfied, in that Care already has been taken, to Vindicate our Innocent Brethren, knowing that no Candid Reader will Judge them Guilty, without exami<g ref="char:EOLhyphen"/>ning whether true or falſe, eſpecially ſince they are now reminded and recom<g ref="char:EOLhyphen"/>mended to the aboveſaid Books.</p>
+            <closer>
+               <signed>Henry Gouldney.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="11" facs="tcp:207288:6"/>
+            <head>THE POSTSCRIPT.</head>
+            <p>WE cannot accept <hi>D. S.</hi> his Pamphlet, either as a true Teſtimony againſt <hi>F. Bugg</hi>'s Callumnies caſt upon the Chriſtian <hi>Quakers</hi> in General, or as any Sincere Vindication of the Chriſtian <hi>Quakers</hi> from his Calumnies and Reproaches</p>
+            <p n="1">
+               <hi>I.</hi> Becauſe though he ſeems to Except againſt F. <hi>Bugg</hi>'s Charges, as too general or Indefinite upon the People called <hi>Quakers,</hi> yet he joyns
+<pb n="12" facs="tcp:207288:7"/> Iſſue with him in his Charges againſt divers particular Perſons, both Dead and Living, known to be Chriſtian <hi>Quakers;</hi> as <hi>George Fox, John Audland, Joſiah Coale, James Parnel, George Whitehead</hi> and others.</p>
+            <p n="2">
+               <hi>II.</hi> Becauſe the ſaid <hi>D. S.</hi> whilſt he pretends to Vindicate the Chriſtian <hi>Quakers</hi> from F. <hi>Bugg</hi> Aſ<g ref="char:EOLhyphen"/>ſpertions and Callumnious Charges; yet takes his Charges of Blaſphemy, <hi>&amp;c.</hi> for Granted againſt the ſaid <hi>G. Fox, James Parnel,</hi> &amp;c. Conſequently thereby condemning them as no Chri<g ref="char:EOLhyphen"/>ſtians.</p>
+            <p n="3">
+               <pb n="13" facs="tcp:207288:7"/> 
+               <hi>III.</hi> The ſaid <hi>G. W.</hi> in his Vindicating <hi>D. S.</hi> his Pamphlet, hath therefore joyned Iſſue with him, and F. <hi>Bugg</hi> in his <g ref="char:V">Ʋ</g>njuſt Charges and Condemnation againſt thoſe our faith<g ref="char:EOLhyphen"/>ful Deceaſed Friends, <hi>G.</hi> F. <hi>J. P. &amp;c.</hi> as no Chriſtians; which is di<g ref="char:EOLhyphen"/>rectly Contrary to the living Senſe and Teſtimony, of all Chriſtian <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> that knew them.</p>
+            <p>Thus 'tis Manifeſt that <hi>F. Bugg, D. S.</hi> and <hi>G. W.</hi> have joyn'd Iſſue in their Charges, Condemnations, or a kind of Excomunications a<g ref="char:EOLhyphen"/>gainſt Innocent faithful Men, after their Death; which, as he ſaith p. 6. <hi>he has no Scripture, nor preſident for that we know of, unleſs he goeth to the</hi> Pope <hi>for it;</hi> but theſe Apoſtates have now ſhewn their Envy and Ran<g ref="char:EOLhyphen"/>cour
+<pb n="14" facs="tcp:207288:8"/> of Spirit; As many Inſtances might he given of ſuch like Popiſh, Anti-Chriſtian Practices.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:207288:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
